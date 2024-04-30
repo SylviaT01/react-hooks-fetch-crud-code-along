@@ -28,13 +28,37 @@
       "id": 5,
       "name": "Swiss Cheese",
       "category": "Dairy",
-      "isInCart": false
+      "isInCart": true
     },
     {
       "id": 6,
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Yogurt",
+      "category": "Produce",
+      "isInCart": true,
+      "id": 9
+    },
+    {
+      "name": "Melon",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 10
+    },
+    {
+      "name": "Fried Ribs",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 11
+    },
+    {
+      "name": "Fried Rice",
+      "category": "Produce",
+      "isInCart": true,
+      "id": 12
     }
   ]
 }
